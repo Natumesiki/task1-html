@@ -96,11 +96,30 @@ footer {
    
   .step-img1 {
      max-height:150px;
+     max-width:100%;
+    background-size: cover;
+    background-position:bottom center;
   }
   
-   text{
+  .step-img2{
+     max-height: 150px;
+     max-width: 100%;
+    background-size: cover;
+    background-position:bottom center;
+    
+  }
+  
+  .step-img3{
+     max-height: 150px;
+     max-width: 100%;
+    background-size: cover;
+    background-position:bottom center;
+  }
+   .text{
      display:block;
+     
    }
+   
    
    footer{
      width:100%;
