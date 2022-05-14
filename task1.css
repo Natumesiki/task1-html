@@ -79,14 +79,16 @@ footer {
    main {
      width:100%;
     display:block;
-     margin:50px 5%;
+     margin:50px 10px 50px 10px;
      
    }
      
    
    .step-box{
      width:90%;
-     margin:0 0 20px;
+     margin-bottom:20px;
+     margin-right:0px;
+     margin-left:0px;
      display:block;
    }
    
@@ -117,7 +119,7 @@ footer {
   }
    .text{
      display:block;
-     
+     text-align:left;
    }
    
    
